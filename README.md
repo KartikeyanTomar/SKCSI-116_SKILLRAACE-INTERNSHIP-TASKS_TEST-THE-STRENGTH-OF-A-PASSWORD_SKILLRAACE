@@ -2,7 +2,7 @@
 Password_Strength_checker
 
 # Project Overview
-Under the Internship program with Prodigy this project is being Completed
+Under the Internship program with Skillraace this project is being Completed
 
 # Task Description
 A python program that can check the strength of user's password. Allowing user to input a password and and check the strength according to different standard's.
@@ -17,8 +17,8 @@ Provide step-by-step instructions on how to install and set up the project local
 ###bash
 ```
 # Example installation steps
-git clone https://github.com/KartikeyanTomar/PRODIGY_CS_03.git
-cd PRODIGY_CS_03
+git clone https://github.com/KartikeyanTomar/SKCSI-116_SKILLRAACE-INTERNSHIP-TASKS_TEST-THE-STRENGTH-OF-A-PASSWORD_SKILLRAACE.git
+cd SKCSI-116_SKILLRAACE-INTERNSHIP-TASKS_TEST-THE-STRENGTH-OF-A-PASSWORD_SKILLRAACE
 python Password_Strength_Checker.py
 ```
 
@@ -31,4 +31,4 @@ This Program will return the strength of your password according to some criteri
 
 ----------------------------------##########-------------------------------------------------------------------------
 
-Feel free to adapt and expand upon this template to suit your specific project and experiences during your internship with Prodigy.
+Feel free to adapt and expand upon this template to suit your specific project and experiences during your internship with Skillraace.
